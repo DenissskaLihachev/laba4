@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Денчик\Desktop\Программирование\Лаба4\Source.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LINK : не найден или не выполнена сборка C:\Users\Денчик\Desktop\Программирование\Лаба4\x64\Debug\Project29.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Project29.vcxproj -> C:\Users\Денчик\Desktop\Программирование\Лаба4\x64\Debug\Project29.exe
